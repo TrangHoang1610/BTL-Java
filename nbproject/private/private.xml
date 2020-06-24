@@ -4,19 +4,12 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/baitaplon/community/com/controller/ThongKeController.java</file>
-            <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/community/com/views/KhachHang.java</file>
-            <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/community/com/views/QLKhachHang.java</file>
-            <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/community/com/views/HoaDon.java</file>
-            <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/baitaplon/KhachHangTable.java</file>
-            <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/community/com/views/DangNhap.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/baitaplon/community/com/views/QLHoaDon.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/baitaplon/community/com/views/KhachHang.java</file>
             <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/baitaplon/community/com/controller/KhachHangController.java</file>
-            <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/community/com/views/QLBaoCao.java</file>
-            <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/community/com/views/BaoCao.java</file>
-            <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/community/com/views/QLHoaDon.java</file>
-            <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/baitaplon/DataConnection.java</file>
-            <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/community/com/views/TimKiemKhachHang.java</file>
-            <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/community/com/model/KhachHangObject.java</file>
-            <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/community/com/views/SanPham.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/baitaplon/community/com/views/QLBaoBaoDoanhThu.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/baitaplon/community/com/views/QLKhachHang.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Desktop/JAVA/BaiTapLon/src/Util/Format1.java</file>
         </group>
     </open-files>
 </project-private>
